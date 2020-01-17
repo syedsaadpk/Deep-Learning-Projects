@@ -1,0 +1,6 @@
+Hey There.
+Here is the Deep Learning Project 3.
+In this project we will develop Regression Housing Pricing Project to predict house prices.
+
+
+More informations comming up next...
