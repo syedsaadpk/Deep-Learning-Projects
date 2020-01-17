@@ -1,0 +1,6 @@
+Hey There.
+Here is the Deep Learning Project 2.
+In this project we will develop a Multi Class Classification project with the help of Deep Learning to classify flower types...
+
+
+More informations comming up next...
