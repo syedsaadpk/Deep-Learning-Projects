@@ -1,0 +1,7 @@
+Hey There.
+Here is the Deep Learning Project 4.
+In this project we will develop dropout regularization sonar project for the Navy.
+Mines vs. Rocks
+
+
+More informations comming up next...
